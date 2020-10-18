@@ -3,6 +3,9 @@ A sandbox for Rust experiments. I plan to experiment with the barebones of new R
 
 # Examples
 
+* hello - hello world, with console logging using log and EnvLog
+* onepagecms - one page cms using Tide and rusqlite
+
 # Running an example
 
 First, chmod +x ./run
